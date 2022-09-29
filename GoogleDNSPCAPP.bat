@@ -21,7 +21,7 @@ exit
 )
 
 if "%question2%"=="d" (
-netsh interface ipv4 set dns "Ethernet" dhcp
+netsh interface ipv4 set dns "%question1%" dhcp
 ipconfig /flushdns
 echo.
 echo The %question1% adapter is clear, the program will shut it self OFF.
