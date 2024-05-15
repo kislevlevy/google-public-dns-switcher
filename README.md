@@ -16,9 +16,8 @@ To address this, I designed a script that allows you to easily switch your compu
 
 ## Usage
 
-1. Download the script from [this link](https://lnkd.in/eJCiZa7w).
-2. Run the `app.bat` file.
-3. Answer the prompts:
+1. Run the `app.bat` file.
+2. Answer the prompts:
    - "Which adapter would you like to change? Write its full name."</br>
 You'll be given a list of adapters such as Ethernet, Wi-Fi, etc. Type the exact name of the adapter you want to change.
    - "Would you like to activate or deactivate?"</br>
